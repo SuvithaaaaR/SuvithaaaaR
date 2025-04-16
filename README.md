@@ -1,33 +1,61 @@
-# Hi there, I'm [Your Name] 👋
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B" alt="Typing SVG" /></p>
 
-## About Me
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Skills/Technologies]
-- 👯 I'm looking to collaborate on [Interests]
-- 💬 Ask me about [Topics you're knowledgeable in]
-- 📫 How to reach me: [Your Email/Contact Info]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something Interesting About You]
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8b5d198-6cef-4f47-b28a-0d4df5841081.png" width="100px" style="filter: hue-rotate(110deg);" />
+</div>
 
-## Skills
-### Programming Languages
-- Language 1
-- Language 2
-- Language 3
+## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30" style="filter: hue-rotate(110deg);"> About Me
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🔭 I'm currently working on <b>[Current Project]</b></li>
+          <li>🌱 I'm currently learning <b>[Skills/Technologies]</b></li>
+          <li>👯 I'm looking to collaborate on <b>[Interests]</b></li>
+          <li>💬 Ask me about <b>[Topics you're knowledgeable in]</b></li>
+          <li>📫 How to reach me: <b>[Your Email/Contact Info]</b></li>
+          <li>😄 Pronouns: <b>[Your Pronouns]</b></li>
+          <li>⚡ Fun fact: <b>[Something Interesting About You]</b></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="200" style="filter: hue-rotate(110deg);">
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Frameworks & Libraries
-- Framework 1
-- Framework 2
-- Library 1
+## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30" style="filter: hue-rotate(110deg);"> Skills
 
-### Tools & Technologies
-- Tool 1
-- Tool 2
-- Technology 1
-
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
-</p>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,ruby&theme=light&perline=5" />
+  <br>
+  <i>Replace with your actual programming languages</i>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap&theme=light&perline=5" />
+  <br>
+  <i>Replace with your actual frameworks & libraries</i>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma&theme=light&perline=5" />
+  <br>
+  <i>Replace with your actual tools & technologies</i>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
+</div>
 
 ## My GitHub Stats
 <div align="center">
@@ -47,11 +75,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=synthwave&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=FFFFFF" alt="GitHub Streak">
 </p>
-
-<h3 align="center">🐍 My Contribution Graph</h3>
-<div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="750"/>
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
