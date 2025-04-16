@@ -35,22 +35,22 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,ruby&theme=light&perline=5" />
-  <br>
-  <i>Replace with your actual programming languages</i>
+  <div style="height: 1px; background-color: #ff69b4; width: 50%; margin: 10px auto;"></div>
+  <i style="color: #ff69b4;">Replace with your actual programming languages</i>
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Frameworks & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap&theme=light&perline=5" />
-  <br>
-  <i>Replace with your actual frameworks & libraries</i>
+  <div style="height: 1px; background-color: #ff69b4; width: 50%; margin: 10px auto;"></div>
+  <i style="color: #ff69b4;">Replace with your actual frameworks & libraries</i>
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Tools & Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma&theme=light&perline=5" />
-  <br>
-  <i>Replace with your actual tools & technologies</i>
+  <div style="height: 1px; background-color: #ff69b4; width: 50%; margin: 10px auto;"></div>
+  <i style="color: #ff69b4;">Replace with your actual tools & technologies</i>
 </div>
 
 <div align="center">
@@ -99,7 +99,7 @@
 <h2 align="center">⚡My Trophies:</h2>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&column=7&margin-w=15" alt="YourGitHubUsername" />
+    <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=juicyfresh&no-frame=true&column=7&margin-w=15" alt="YourGitHubUsername" />
   </a> 
 </p>
 
