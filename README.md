@@ -111,8 +111,3 @@
 
   ![](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=ff69b4&style=flat-square&label=Profile+Views)
 </div>
-
-<!-- Animated footer -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400" style="filter: hue-rotate(110deg);">
-</p>
