@@ -20,13 +20,13 @@
   <li>📫 Reach me at: <b>suviiiramesh@gmail.com</b></li>
   <li>🌐 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/suvitha-ramesh" target="_blank"><b>linkedin.com/in/suvitha-ramesh</b></a></li>
   <li>😄 Pronouns: <b>She/Her</b></li>
-
+        </ul>
         </ul>
       </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="200" style="filter: hue-rotate(110deg);">
-      </td>
     </tr>
+  
+
+       
   </table>
 </div>
 
