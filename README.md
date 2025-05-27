@@ -1,66 +1,43 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Suvitha+Ramesh+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8b5d198-6cef-4f47-b28a-0d4df5841081.png" width="100px" style="filter: hue-rotate(110deg);" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8b5d198-6cef-4f47-b28a-0d4df5841081.png" width="100px" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30" style="filter: hue-rotate(110deg);"> About Me
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <ul>
-        <ul>
+## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30"> About Me
+
+<ul>
   <li>🚀 I'm the <b>COO & Co-founder of <a href="https://www.fewinfos.com" target="_blank">Fewinfos</a></b>, a student-led startup transforming ideas into impactful tech solutions.</li>
-  <li>🔭 Currently interning at <b>Innoov Japan</b> and learning jira fundamentals.</li>
-  <li>🌱 Actively learning <b>Machine Learning, Deep Learning</b>, and <b>Japanese (JLPT N4 level)</b> to expand my global and technical expertise.</li>
-  <li>👯 Open to collaborating on <b>AI-driven applications, frontend web development, and innovative tech challenges</b>.</li>
-  <li>💬 Ask me about <b>React, HTML, CSS, JavaScript, Python, Flask, UI/UX design, and project management</b>.</li>
-  <li>🎨 Fun fact: I'm also an artist! I love blending creativity into my code through intuitive UI/UX and visual storytelling.</li>
+  <li>🔭 Currently working as an <b>Intern at Innoov Japan</b>, exploring <b>Jira fundamentals.</li>
+  <li>🌱 Actively learning <b>Machine Learning, Deep Learning</b>, and <b>Japanese (JLPT N4)</b> to deepen my global technical fluency and building an <b>AI-powered Smart Footpath System for Safer Pedestrian Mobility</b>.</li>
+  <li>🎨 Fun fact: I'm an artist! I love blending creativity into my tech journey through UI/UX design and visual storytelling.</li>
+  <li>👯 Open to collaborating on <b>AI applications, frontend projects, and student-driven innovations</b>.</li>
+  <li>💬 Ask me about <b>React, HTML, CSS, JavaScript, Python, Flask, UI/UX, and Project Management</b>.</li>
   <li>📫 Reach me at: <b>suviiiramesh@gmail.com</b></li>
-  <li>🌐 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/suvitha-ramesh" target="_blank"><b>linkedin.com/in/suvitha-ramesh</b></a></li>
+  <li>🌐 Connect with me: <a href="https://www.linkedin.com/in/suvitha-ramesh" target="_blank"><b>linkedin.com/in/suvitha-ramesh</b></a></li>
   <li>😄 Pronouns: <b>She/Her</b></li>
-        </ul>
-        </ul>
-      </td>
-    </tr>
-  
+</ul>
 
-       
-  </table>
-</div>
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30" style="filter: hue-rotate(110deg);"> Skills
+## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30"> Skills
 
+### 💻 Programming Languages
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp&theme=light" />
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Programming Languages
+### 📚 Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,ruby&theme=light&perline=5" />
-  <div style="height: 1px; background-color: #ff69b4; width: 50%; margin: 10px auto;"></div>
-  <i style="color: #ff69b4;">Replace with your actual programming languages</i>
+  <img src="https://skillicons.dev/icons?i=react,flask,nodejs,bootstrap&theme=light" />
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Frameworks & Libraries
+### 🛠️ Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap&theme=light&perline=5" />
-  <div style="height: 1px; background-color: #ff69b4; width: 50%; margin: 10px auto;"></div>
-  <i style="color: #ff69b4;">Replace with your actual frameworks & libraries</i>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,docker&theme=light" />
 </div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" style="filter: hue-rotate(110deg);"> Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma&theme=light&perline=5" />
-  <div style="height: 1px; background-color: #ff69b4; width: 50%; margin: 10px auto;"></div>
-  <i style="color: #ff69b4;">Replace with your actual tools & technologies</i>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
-</div>
-
 ## My GitHub Stats
 <div align="center">
   <a href="https://github.com/YourGitHubUsername/github-readme-stats">
