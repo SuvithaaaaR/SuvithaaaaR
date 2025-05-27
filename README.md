@@ -10,13 +10,17 @@
     <tr>
       <td>
         <ul>
-          <li>🔭 I'm currently working on <b>[Current Project]</b></li>
-          <li>🌱 I'm currently learning <b>[Skills/Technologies]</b></li>
-          <li>👯 I'm looking to collaborate on <b>[Interests]</b></li>
-          <li>💬 Ask me about <b>[Topics you're knowledgeable in]</b></li>
-          <li>📫 How to reach me: <b>[Your Email/Contact Info]</b></li>
-          <li>😄 Pronouns: <b>[Your Pronouns]</b></li>
-          <li>⚡ Fun fact: <b>[Something Interesting About You]</b></li>
+        <ul>
+  <li>🚀 I'm the <b>COO & Co-founder of <a href="https://www.fewinfos.com" target="_blank">Fewinfos</a></b>, a student-led startup transforming ideas into impactful tech solutions.</li>
+  <li>🔭 Currently interning at <b>Innoov Japan</b> and learning jira fundamentals.</li>
+  <li>🌱 Actively learning <b>Machine Learning, Deep Learning</b>, and <b>Japanese (JLPT N4 level)</b> to expand my global and technical expertise.</li>
+  <li>👯 Open to collaborating on <b>AI-driven applications, frontend web development, and innovative tech challenges</b>.</li>
+  <li>💬 Ask me about <b>React, HTML, CSS, JavaScript, Python, Flask, UI/UX design, and project management</b>.</li>
+  <li>🎨 Fun fact: I'm also an artist! I love blending creativity into my code through intuitive UI/UX and visual storytelling.</li>
+  <li>📫 Reach me at: <b>suviiiramesh@gmail.com</b></li>
+  <li>🌐 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/suvitha-ramesh" target="_blank"><b>linkedin.com/in/suvitha-ramesh</b></a></li>
+  <li>😄 Pronouns: <b>She/Her</b></li>
+
         </ul>
       </td>
       <td>
