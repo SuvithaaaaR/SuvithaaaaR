@@ -10,8 +10,8 @@
 
 <ul>
   <li>🚀 I'm the <b>COO & Co-founder of <a href="https://www.fewinfos.com" target="_blank">Fewinfos</a></b>, a student-led startup transforming ideas into impactful tech solutions.</li>
-  <li>🔭 Currently working as an <b>Intern at Innoov Japan</b>, exploring <b>Jira fundamentals.</li>
-  <li>🌱 Actively learning <b>Machine Learning, Deep Learning</b>, and <b>Japanese (JLPT N4)</b> to deepen my global technical fluency and building an <b>AI-powered Smart Footpath System for Safer Pedestrian Mobility</b>.</li>
+  <li>🔭 Currently working as an <b>Intern at Innoov Japan</b>, exploring <b>Jira fundamentals</b> and building an <b>AI-powered Smart Footpath System for Safer Pedestrian Mobility</b>.</li>
+  <li>🌱 Actively learning <b>Machine Learning, Deep Learning</b>, and <b>Japanese (JLPT N4)</b> to deepen my global technical fluency.</li>
   <li>🎨 Fun fact: I'm an artist! I love blending creativity into my tech journey through UI/UX design and visual storytelling.</li>
   <li>👯 Open to collaborating on <b>AI applications, frontend projects, and student-driven innovations</b>.</li>
   <li>💬 Ask me about <b>React, HTML, CSS, JavaScript, Python, Flask, UI/UX, and Project Management</b>.</li>
