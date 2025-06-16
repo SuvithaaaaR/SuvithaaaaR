@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Suvitha+Ramesh+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<p align="center"><a href="https://SuvithaaaaR.github.io"><img width="80%" alt="Hello, I'm Suvitha. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8b5d198-6cef-4f47-b28a-0d4df5841081.png" width="100px" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30"> About Me
+About Me
 
 <ul>
   <li>🚀 I'm the <b>COO & Co-founder of <a href="https://www.fewinfos.com" target="_blank">Fewinfos</a></b>, a student-led startup transforming ideas into impactful tech solutions.</li>
