@@ -1,10 +1,7 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Suvitha. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://SuvithaaaaR.github.io"><img width="80%" alt="Hello, I'm Suvitha. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8b5d198-6cef-4f47-b28a-0d4df5841081.png" width="100px" />
-</div>
 
 ## About Me
 
