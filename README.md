@@ -24,7 +24,7 @@ I'm a passionate Tech Entrepreneur and Developer from India 🇮🇳
 ## My GitHub Stats
 
 | <a href="https://github.com/SuvithaaaaR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SuvithaaaaR&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Suvitha's github stats" /></a> | <a href="https://github.com/SuvithaaaaR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvithaaaaR&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Top Repositories
 
@@ -39,6 +39,7 @@ I'm a passionate Tech Entrepreneur and Developer from India 🇮🇳
 <br />
 
 ## 💖 Connect with Me 💖
+
 <p align="center">
   <a href="https://www.linkedin.com/in/suvitha-ramesh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="50" /></a>
   &nbsp;&nbsp;
@@ -66,5 +67,6 @@ I'm a passionate Tech Entrepreneur and Developer from India 🇮🇳
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Check+out+my+repositories!;Thanks+for+visiting!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=36BCF7">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer&animation=twinkling" width="100%">
 
-  ![](https://komarev.com/ghpvc/?username=SuvithaaaaR&color=36BCF7&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=SuvithaaaaR&color=36BCF7&style=flat-square&label=Profile+Views)
+
 </div>
