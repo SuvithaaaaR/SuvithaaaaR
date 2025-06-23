@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Suvitha.R\Downloads\Estelle Darcy (1).png" alt="Suvitha Ramesh Banner" width="100%">
+  <img src="https://i.imgur.com/COyrjqo.png" alt="Suvitha Ramesh Banner" width="100%">
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suvitha Ramesh</h1>
