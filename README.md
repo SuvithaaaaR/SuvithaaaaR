@@ -24,17 +24,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&amp;label=Profile views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
 <img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
-<p>✔ Pronouns: <em><strong>She/Her</strong></em><br>
-✔ I'm currently working on <strong>AI-powered Smart Footpath System</strong> <strong>@Innoov Japan</strong><br>
-✔ I'm currently learning <strong>Machine Learning</strong>, <strong>Deep Learning</strong> & <strong>Japanese (JLPT N4)</strong><br>
-✔ I'm looking to collaborate on <strong>AI applications</strong> and <strong>student-driven innovations</strong><br>
-✔ I'm passionate about combining <strong>art with technology</strong> through <strong>UI/UX design</strong><br>
-✔ I regularly create content for <a href="https://www.fewinfos.com">Fewinfos</a><br>
-✔ I enjoy participating in <a href="https://github.com/SuvithaaaaR">open-source projects</a><br>
-✔ Ask me about <strong>React, HTML, CSS, JavaScript, Python, Flask, UI/UX, and Project Management</strong>!<br>
-✔ Fun fact: <em>I love blending creativity into my tech journey through visual storytelling</em><br><br><br><br></p>
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
+
 
 ### 💻 Programming Languages
 
