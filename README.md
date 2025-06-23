@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="200">
-</p>
+<p><img src="https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png" alt="Banner"></p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suvitha Ramesh</h1>
 <h3 align="center">COO & Co-founder @Fewinfos | UI/UX Designer | AI Enthusiast</h3>
