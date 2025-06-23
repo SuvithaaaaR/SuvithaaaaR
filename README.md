@@ -1,4 +1,7 @@
-<p><img src="https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png" alt="Banner"></p>
+  <h3 id="hi-there">Hi there 👋</h3>
+<p><a href="https://omkarpathak.in"><img src="https://i.imgur.com/HcaHoth.png" alt="img"></a></p>
+<hr>
+<p>Credits: <a href="https://github.com/SuvithaRamesh">Suvitha Ramesh</a></p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suvitha Ramesh</h1>
 <h3 align="center">COO & Co-founder @Fewinfos | UI/UX Designer | AI Enthusiast</h3>
