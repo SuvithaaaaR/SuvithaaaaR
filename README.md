@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/suvitha-ramesh/suvitha-ramesh/assets/your-github-username/your-image-id" width="100%" alt="Suvitha Ramesh Banner"/>
+</p>
+
 <h1 align="center"> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
@@ -7,7 +11,6 @@
 
 <div align="center">Hi! I'm <strong>Suvitha Ramesh</strong> 🌸<br>Thanks for stopping by my GitHub profile!</div>
 
----
 
 <h2>👩‍💻 About Me</h2>
 
@@ -29,7 +32,7 @@
   </tr>
 </table>
 
----
+
 
 <h2>🛠 Skills</h2>
 
@@ -47,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" alt="Jira"/>
 </p>
 
----
+
 
 <h2>🌐 Connect with Me</h2>
 
@@ -66,7 +69,7 @@
   </a>
 </p>
 
----
+
 
 <h2>📊 GitHub Stats</h2>
 
@@ -81,12 +84,11 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvitha-ramesh&theme=synthwave&hide_border=true" />
-    </td>
+      <img src="https://streak-stats.demolab.com/?user=SuvithaaaaR&theme=synthwave&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=FFFFFF" alt="GitHub Streak">
+
   </tr>
 </table>
 
----
 
 <h2 align="center">⚡ Activity Graph</h2>
 
@@ -98,7 +100,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
----
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card"/>
