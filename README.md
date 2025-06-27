@@ -39,7 +39,9 @@
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg" alt="Flask"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" alt="Figma"></a>
-
+<img src="https://raw.githubusercontent.com/atlascommunity/forge-docs/main/src/images/forge-icon.svg" height="40" alt="Forge" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" /> 
+ 
 ---
 
 <h2>🌐 Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
