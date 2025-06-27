@@ -55,9 +55,21 @@
 <h2>🌐 Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/suvitha-ramesh"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-  <a href="https://github.com/suvitha-ramesh"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
-  <a href="https://www.fewinfos.com"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a>
+  <a href="https://www.linkedin.com/in/suvitha-ramesh" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn">
+  </a>
+  
+  <a href="https://github.com/suvitha-ramesh" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
+  </a>
+  
+  <a href="https://fewinfos.com/team/suvitharamesh/" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Fewinfos Profile">
+  </a>
+  
+  <a href="https://medium.com/@suviiiramesh/" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium Blog">
+  </a>
 </p>
 
 ---
@@ -66,7 +78,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=suvitha-ramesh&show_icons=true&theme=tokyonight" alt="GitHub Stats"></td>
+    <td><a href="https://github.com/SuvithaaaaR/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SuvithaaaaR&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
+  </a>
+</td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=suvitha-ramesh&theme=tokyonight" alt="GitHub Streak"></td>
   </tr>
   <tr>
