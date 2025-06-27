@@ -91,7 +91,21 @@
     <td colspan="2"><img src="https://streak-stats.demolab.com/?user=SuvithaaaaR&theme=synthwave&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=FFFFFF" alt="GitHub Streak">
 </td>
   </tr>
+ <tr>
+  <td>
+   <h2 align="center">⚡ Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvitha-ramesh&theme=rogue&bg_color=20232a&hide_border=true&line=ff69b4&point=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
+</p>
+  </td>
+ </tr>
 </table>
+
 
 ---
 
