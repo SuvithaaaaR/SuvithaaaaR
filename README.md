@@ -13,19 +13,25 @@
 
 ---
 
-<h2>👩‍💻 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px"></h2>
+<h2>👩‍💻 About Me</h2>
 
-<p align="right">
- 
- <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png"></p>
-<ul>
-  <li>🔭 I'm currently interning at <strong>Innoov Japan</strong></li>
-  <li>👩‍🎓 Student @ MKCE | B.E CSE (AI)</li>
-  <li>🌱 Learning: <strong>React.js, Flask, and Japanese (JLPT N4)</strong></li>
-  <li>👯 Looking to collaborate on frontend & AI projects at <strong>Fewinfos</strong></li>
-  <li>💬 Ask me about: <strong>HTML, CSS, JavaScript, Python, UI/UX</strong></li>
-  <li>🎨 Fun fact: I love <strong>drawing</strong> and <strong>anime</strong>!</li>
-</ul>
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li>🔭 I'm currently interning at <strong>Innoov Japan</strong></li>
+       <li>🚀 Co-Founder & COO at <strong><a href="https://www.fewinfos.com" target="_blank">Fewinfos</a></strong> — a student-led innovation team</li>
+        <li>👩‍🎓 Student @ MKCE | B.E CSE (AI)</li>
+        <li>🌱 Learning: <strong>React.js, Flask, and Japanese (JLPT N4)</strong></li>
+        <li>👯 Looking to collaborate on frontend & AI-based real-world projects</li>
+        <li>💬 Ask me about: <strong>HTML, CSS, JavaScript, Python, UI/UX</strong></li>
+      </ul>
+    </td>
+    <td align="center">
+      <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png" alt="Profile Pic"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
