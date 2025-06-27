@@ -1,7 +1,3 @@
-<p align="center">
- 
-</p>
-
 <h1 align="center"> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
@@ -19,12 +15,12 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🔭 I'm currently interning at <strong>Innoov Japan</strong></li>
-       <li>🚀 Co-Founder & COO at <strong><a href="https://www.fewinfos.com" target="_blank">Fewinfos</a></strong> — a student-led innovation team</li>
+        <li>🔭 Interning at <strong>Innoov Japan</strong></li>
+        <li>🚀 Co-Founder & COO at <strong><a href="https://www.fewinfos.com" target="_blank">Fewinfos</a></strong></li>
         <li>👩‍🎓 Student @ MKCE | B.E CSE (AI)</li>
         <li>🌱 Learning: <strong>React.js, Flask, and Japanese (JLPT N4)</strong></li>
-        <li>👯 Looking to collaborate on frontend & AI-based real-world projects</li>
-        <li>💬 Ask me about: <strong>HTML, CSS, JavaScript, Python, UI/UX</strong></li>
+        <li>👯 Interested in frontend & AI-based real-world projects</li>
+        <li>💬 Ask me about: <strong>HTML, CSS, JS, Python, UI/UX</strong></li>
       </ul>
     </td>
     <td align="center">
@@ -35,83 +31,80 @@
 
 ---
 
-<h2>🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
+<h2>🛠 Skills</h2>
 
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="Java"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg" alt="Flask"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" alt="Figma"></a>
-![Forge](https://img.shields.io/badge/Atlassian%20Forge-0052CC?logo=atlassian&logoColor=white&style=for-the-badge)
+<p>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="Java"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg" alt="Flask"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Atlassian%20Forge-0052CC?logo=atlassian&logoColor=white&style=for-the-badge" alt="Forge Badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" alt="Jira"/>
+</p>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" /> 
- 
 ---
 
-<h2>🌐 Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<h2>🌐 Connect with Me</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/suvitha-ramesh" target="_blank">
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn">
   </a>
-  
   <a href="https://github.com/suvitha-ramesh" target="_blank">
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
   </a>
-  
   <a href="https://fewinfos.com/team/suvitharamesh/" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Fewinfos Profile">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Portfolio">
   </a>
-  
   <a href="https://medium.com/@suviiiramesh/" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium Blog">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium">
   </a>
 </p>
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <table>
   <tr>
-    <td><a href="https://github.com/SuvithaaaaR/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SuvithaaaaR&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
-  </a>
-</td>
-    <td><a href="https://github.com/SuvithaaaaR/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuvithaaaaR&layout=compact&langs_count=8&card_width=300&theme=synthwave&hide_border=true" />
-  </a>
-</td>
+    <td>
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=SuvithaaaaR&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
+    </td>
+    <td>
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=SuvithaaaaR&layout=compact&langs_count=8&card_width=300&theme=synthwave&hide_border=true" />
+    </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://streak-stats.demolab.com/?user=SuvithaaaaR&theme=synthwave&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=FFFFFF" alt="GitHub Streak">
-</td>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=SuvithaaaaR&theme=synthwave&hide_border=true&stroke=ff69b4&ring=ff69b4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=FFFFFF" alt="GitHub Streak"/>
+    </td>
   </tr>
- <tr>
-  <td>
-   <h2 align="center">⚡ Activity Graph</h2>
+</table>
+
+---
+
+<h2 align="center">⚡ Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvitha-ramesh&theme=rogue&bg_color=20232a&hide_border=true&line=ff69b4&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvitha-ramesh&theme=rogue&bg_color=20232a&hide_border=true&line=ff69b4&point=ffffff"/>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
 </p>
-  </td>
- </tr>
-</table>
-
 
 ---
 
-<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card"></p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card"/>
+</p>
 
 ---
 
 <p align="center">✨ Built with 💻 by <a href="https://github.com/suvitha-ramesh">Suvitha Ramesh</a></p>
-<p align="center">📝 Last updated on: {{today's date}}</p>
+<p align="center">📝 Last updated on: <!-- UPDATE DATE HERE --></p>
