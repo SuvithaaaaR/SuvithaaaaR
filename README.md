@@ -82,10 +82,14 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SuvithaaaaR&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
   </a>
 </td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=suvitha-ramesh&theme=tokyonight" alt="GitHub Streak"></td>
+    <td><a href="https://github.com/SuvithaaaaR/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuvithaaaaR&layout=compact&langs_count=8&card_width=300&theme=synthwave&hide_border=true" />
+  </a>
+</td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvitha-ramesh&layout=compact&theme=tokyonight" alt="Top Languages"></td>
+    <td colspan="2"><img src="https://streak-stats.demolab.com/?user=SuvithaaaaR&theme=synthwave&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=FFFFFF" alt="GitHub Streak">
+</td>
   </tr>
 </table>
 
