@@ -79,7 +79,7 @@
   </a>
     </td>
     <td>
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvitha-ramesh&layout=compact&langs_count=8&card_width=300&theme=synthwave&hide_border=true" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?SuvithaaaaR&layout=compact&langs_count=8&card_width=300&theme=synthwave&hide_border=true" />
 
   </a>
     </td>
