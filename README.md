@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+ 
 </p>
 
 <h1 align="center"> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
@@ -15,8 +15,7 @@
 
 <h2>👩‍💻 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px"></h2>
 
-<img align="right" width="50%" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
-
+ <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 <ul>
   <li>🔭 I'm currently interning at <strong>Innoov Japan</strong></li>
   <li>👩‍🎓 Student @ MKCE | B.E CSE (AI)</li>
