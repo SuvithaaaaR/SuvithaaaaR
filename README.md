@@ -15,7 +15,9 @@
 
 <h2>👩‍💻 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px"></h2>
 
- <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+<p align="right">
+ 
+ <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png"></p>
 <ul>
   <li>🔭 I'm currently interning at <strong>Innoov Japan</strong></li>
   <li>👩‍🎓 Student @ MKCE | B.E CSE (AI)</li>
