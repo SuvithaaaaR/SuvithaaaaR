@@ -39,7 +39,8 @@
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg" alt="Flask"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL"></a>
 <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" alt="Figma"></a>
-<img src="https://raw.githubusercontent.com/atlascommunity/forge-docs/main/src/images/forge-icon.svg" height="40" alt="Forge" />
+![Forge](https://img.shields.io/badge/Atlassian%20Forge-0052CC?logo=atlassian&logoColor=white&style=for-the-badge)
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" /> 
  
 ---
