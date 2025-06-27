@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/suvitha-ramesh/suvitha-ramesh/assets/your-github-username/your-image-id" width="100%" alt="Suvitha Ramesh Banner"/>
-</p>
+
 
 <h1 align="center"> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
@@ -76,10 +74,13 @@
 <table>
   <tr>
     <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=suvitha-ramesh&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
+      <a href="https://github.com/SuvithaaaaR/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SuvithaaaaR&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
+  </a>
     </td>
     <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvitha-ramesh&layout=compact&langs_count=8&theme=synthwave&hide_border=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuvithaaaaR&layout=compact&langs_count=8&card_width=300&theme=synthwave&hide_border=true" />
+  </a>
     </td>
   </tr>
   <tr>
@@ -90,15 +91,7 @@
 </table>
 
 
-<h2 align="center">⚡ Activity Graph</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvitha-ramesh&theme=rogue&bg_color=20232a&hide_border=true&line=ff69b4&point=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 
 <p align="center">
