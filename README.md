@@ -2,10 +2,7 @@
 
 <h1 align="center"> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=suvitha-ramesh.suvitha-ramesh" alt="Profile views"> 
-  <a href="https://github.com/suvitha-ramesh"><img src="https://img.shields.io/github/followers/suvitha-ramesh?label=Follow&style=social" alt="GitHub Followers"></a>
-</p>
+
 
 <div align="center">Hi! I'm <strong>Suvitha Ramesh</strong> 🌸<br>Thanks for stopping by my GitHub profile!</div>
 
