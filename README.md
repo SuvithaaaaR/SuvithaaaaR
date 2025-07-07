@@ -40,7 +40,7 @@
   <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL"/>
   <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" alt="Figma"/>
   <img src="https://img.shields.io/badge/Atlassian%20Forge-0052CC?logo=atlassian&logoColor=white&style=flat-square" alt="Forge"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="3" alt="Jira"/>
+  
 </p>
 
 
