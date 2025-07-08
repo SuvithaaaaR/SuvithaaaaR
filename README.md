@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.imgur.com/suvi-banner-image.png" alt="Suvitha Ramesh Banner" width="100%">
-</p>
+<div align="center">
+  <img src="./assets/suvi-banner-image.png" alt="suvitha" width="100%">
+</div>
 
 <h1 align="center"> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
