@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.imgur.com/suvi-banner-image.png" alt="Suvitha Ramesh Banner" width="100%">
+</p>
 
 <h1 align="center"> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
@@ -88,6 +90,34 @@
 
   </tr>
 </table>
+</table>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SuvithaaaaR&theme=synthwave&no-frame=true&column=7&margin-w=15" alt="SuvithaaaaR" />
+  </a> 
+</p>
+
+## ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuvithaaaaR&theme=synthwave&bg_color=20232a&hide_border=true&line=ff69b4&point=ffffff" alt="GitHub Activity Graph">
+</p>
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SuvithaaaaR/SuvithaaaaR/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card"/>
+</p>
+
+
 
 
 
