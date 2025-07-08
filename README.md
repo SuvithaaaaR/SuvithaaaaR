@@ -93,26 +93,10 @@
 </table>
 
 ## ⚡ Activity Graph
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuvithaaaaR&theme=synthwave&bg_color=20232a&hide_border=true&line=ff69b4&point=ffffff&area=true&area_color=ff69b4" alt="GitHub Activity Graph">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(110deg);">
-</p>
-
 <!-- Alternative animated graph with moving line effect -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuvithaaaaR&theme=synthwave&bg_color=1a1b27&hide_border=true&line=ff69b4&point=ffffff&area=true&area_color=ff69b420&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card"/>
-</p>
 
 
 <p align="center">✨ Built with 💻 by <a href="https://github.com/suvitha-ramesh">Suvitha Ramesh</a></p>
